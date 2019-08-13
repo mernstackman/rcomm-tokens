@@ -1,0 +1,28 @@
+{
+  "global": {
+    "category": "text-color",
+    "type": "color"
+  },
+  "props": [
+    {
+      "name": "dark",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "dark-grey",
+      "value": "#6c6c6c"
+    },
+    {
+      "name": "light-grey",
+      "value": "#b4b4b4"
+    },
+    {
+      "name": "pink",
+      "value": "#f62f5e"
+    },
+    {
+      "name": "white",
+      "value": "#ffffff"
+    }
+  ]
+}

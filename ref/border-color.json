@@ -1,0 +1,23 @@
+{
+    "global": {
+        "category": "border-color",
+        "type": "color"
+    },
+    "props": [{
+            "name": "input-default",
+            "value": "#b4b4b4"
+        },
+        {
+            "name": "input-success",
+            "value": "#85d785"
+        },
+        {
+            "name": "color-selected",
+            "value": "#b4b4b4"
+        },
+        {
+            "name": "preview-selected",
+            "value": "#f62f5e"
+        }
+    ]
+}

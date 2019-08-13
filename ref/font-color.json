@@ -1,0 +1,32 @@
+{
+  "global": {
+    "category": "text-color",
+    "type": "color"
+  },
+  "props": [
+    {
+      "name": "h1",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "h2",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "h3",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "topbar",
+      "value": "#6c6c6c"
+    },
+    {
+      "name": "body-normal",
+      "value": "#6c6c6c"
+    },
+    {
+      "name": "body-small",
+      "value": "#6c6c6c"
+    }
+  ]
+}

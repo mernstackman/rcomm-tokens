@@ -1,0 +1,31 @@
+{
+  "name": "token_generator",
+  "version": "1.0.0",
+  "description": "Design tokens generator using style dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf build",
+    "build": "rm -rf build && style-dictionary build --config ./config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mernstackman/rcomm-tokens.git"
+  },
+  "keywords": [
+    "react",
+    "ecommerce",
+    "design",
+    "tokens"
+  ],
+  "author": "Ari Susanto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mernstackman/rcomm-tokens/issues"
+  },
+  "homepage": "https://github.com/mernstackman/rcomm-tokens#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "style-dictionary": "^2.8.1"
+  }
+}

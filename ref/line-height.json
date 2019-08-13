@@ -1,0 +1,32 @@
+{
+  "global": {
+    "category": "line-height",
+    "type": "size"
+  },
+  "props": [
+    {
+      "name": "h1",
+      "value": "150%"
+    },
+    {
+      "name": "h2",
+      "value": "150%"
+    },
+    {
+      "name": "h3",
+      "value": "150%"
+    },
+    {
+      "name": "topbar",
+      "value": "240%"
+    },
+    {
+      "name": "body-normal",
+      "value": "150%"
+    },
+    {
+      "name": "body-small",
+      "value": "200%"
+    }
+  ]
+}

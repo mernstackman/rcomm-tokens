@@ -1,0 +1,32 @@
+{
+  "global": {
+    "category": "font-size",
+    "type": "size"
+  },
+  "props": [
+    {
+      "name": "h1",
+      "value": "48px"
+    },
+    {
+      "name": "h2",
+      "value": "24px"
+    },
+    {
+      "name": "h3",
+      "value": "16px"
+    },
+    {
+      "name": "topbar",
+      "value": "15px"
+    },
+    {
+      "name": "body-normal",
+      "value": "16px"
+    },
+    {
+      "name": "body-small",
+      "value": "12px"
+    }
+  ]
+}

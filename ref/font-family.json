@@ -1,0 +1,32 @@
+{
+  "global": {
+    "category": "font-family",
+    "type": "font"
+  },
+  "props": [
+    {
+      "name": "h1",
+      "value": "PlayfairDisplay-Bold"
+    },
+    {
+      "name": "h2",
+      "value": "Montserrat-Bold"
+    },
+    {
+      "name": "h3",
+      "value": "Montserrat-Bold"
+    },
+    {
+      "name": "topbar",
+      "value": "Montserrat-Bold"
+    },
+    {
+      "name": "body-normal",
+      "value": "OpenSans"
+    },
+    {
+      "name": "body-small",
+      "value": "OpenSans"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "source": ["properties/index.js"],
+    "platforms": {
+        "js": {
+            "transforms": ["attribute/cti", "name/cti/camel", "color/hex"],
+            "files": [{
+                "destination": "../frontend/views/@tokens/index.js",
+                "format": "javascript/es6"
+            }]
+        }
+    }
+}

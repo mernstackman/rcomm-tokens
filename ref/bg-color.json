@@ -1,0 +1,44 @@
+{
+  "global": {
+    "category": "background-color",
+    "type": "color"
+  },
+  "props": [{
+      "name": "dark",
+      "value": "#2e2e2e"
+    },
+    {
+      "name": "pink",
+      "value": "#f62f5e"
+    },
+    {
+      "name": "light-blue",
+      "value": "#6eb2fb"
+    },
+    {
+      "name": "orange",
+      "value": "#f1ad3d"
+    }, {
+      "name": "dark-orange",
+      "value": "#fe5c07"
+    }, {
+      "name": "green",
+      "value": "#7ed321"
+    }, {
+      "name": "purple",
+      "value": "#9013fe"
+    },
+    {
+      "name": "grey",
+      "value": "#f7f7f7"
+    },
+    {
+      "name": "light-green",
+      "value": "#00d3ca"
+    },
+    {
+      "name": "lime",
+      "value": "#effc90"
+    }
+  ]
+}

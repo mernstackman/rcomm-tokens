@@ -1,0 +1,10 @@
+{
+    "global": {
+        "category": "border-radius",
+        "type": "size"
+    },
+    "props": [{
+        "name": "full",
+        "value": "50%"
+    }]
+}
