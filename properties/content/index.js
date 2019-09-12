@@ -11,5 +11,5 @@ console.log(require.resolve("./icon.json"))
 console.log(iconData) */
 
 module.exports = {
-    icon: require("./icon")
+    // icon: require("../icon")
 }

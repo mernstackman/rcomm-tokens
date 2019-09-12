@@ -3,5 +3,6 @@ module.exports = {
     size: require('./size'),
     shadow: require('./shadow'),
     type: require('./type'),
-    content: require("./content")
+    content: require("./content"),
+    icon: require("./icon")
 }

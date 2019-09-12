@@ -1,15 +1,15 @@
 module.exports = {
-    dark: "#2e2e2e",
-    darkGrey: "#6c6c6c",
-    lightGrey: "#b4b4b4",
-    lighterGrey: "#f7f7f7",
-    red: "#f62f5e",
-    darkOrange: "#fe5c07",
-    orange: "#f1ad3d",
-    purple: "#9013fe",
-    lightSky: "#6eb2fb",
-    lightGreen: "#7ed321",
-    navyGreen: "#00d3ca",
-    lime: "#effc90",
-    white: "#ffffff"
-}
+  dark: { value: "#2e2e2e" },
+  darkGrey: { value: "#6c6c6c" },
+  lightGrey: { value: "#b4b4b4" },
+  lighterGrey: { value: "#f7f7f7" },
+  red: { value: "#f62f5e" },
+  darkOrange: { value: "#fe5c07" },
+  orange: { value: "#f1ad3d" },
+  purple: { value: "#9013fe" },
+  lightSky: { value: "#6eb2fb" },
+  lightGreen: { value: "#7ed321" },
+  navyGreen: { value: "#00d3ca" },
+  lime: { value: "#effc90" },
+  white: { value: "#ffffff" }
+};

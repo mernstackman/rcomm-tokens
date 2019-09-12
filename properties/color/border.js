@@ -1,14 +1,14 @@
 module.exports = {
-    inputDefault: {
-        value: "{color.core.darkGrey}"
-    },
-    inputSuccess: {
-        value: "{color.core.lightGreen}"
-    },
-    colorSelected: {
-        value: "{color.core.darkGrey}"
-    },
-    previewSelected: {
-        value: "{color.core.red}"
-    }
-}
+  inputDefault: {
+    value: "{color.core.darkGrey.value}"
+  },
+  inputSuccess: {
+    value: "{color.core.lightGreen.value}"
+  },
+  colorSelected: {
+    value: "{color.core.darkGrey.value}"
+  },
+  previewSelected: {
+    value: "{color.core.red.value}"
+  }
+};
